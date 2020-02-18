@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Lange Symposium 2020
 
-You can use the [editor on GitHub](https://github.com/LangeSymposium/LangeSymposium2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Registration
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Register for the symposium at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4)
 
-```markdown
-Syntax highlighted code block
+### Symposium Schedule 
 
-# Header 1
-## Header 2
-### Header 3
+UCLA Luskin Conference Center, Feb 21, 2020.
 
-- Bulleted
-- List
+| Time | Title | Speaker |  
+|:-----------|:------------|:------------|  
+| 9:00-9:10 | Welcome | |  
+| 9:10-10:00 | Moving Beyond Big Data and AI to Realize Precision Medicine for All Patients | Eric Schadt (Icahn School of Medicine at Mount Sinai) |  
+| 10:00-10:50 | Identifying Genes for Type 2 Diabetes and Related Traits | Michael Boehnke (University of Michigan) |  
+| 11:00-11:50 | Scalable Analysis of Large Biobanks and Whole Genome Sequencing Studies | Xihong Lin (Harvard University) |  
+| 12:00-1:30 | Lunch | |  
+| 1:30-2:00 | Open mic for anyone who wants to say a few words about Ken |  |  
+| 2:00-2:50 | Exploring and exploiting pleiotropy | Nancy Cox (Vanderbilt University) |   
+| 3:00-3:50 | Mendel, Fisher, Julia, and the Wolves of Yellowstone National Park: an Overview of the Open Mendel Project | Janet Sinsheimer (UCLA) |  
+| 4:00-4:50 | Interrogating Racial/Ethnic Differences, A Tale of Two Phenotypes: Atopic Dermatitis and Serum Creatinine | Neil Risch (UCSF) |   
+| 4:50-5:00 | Conclusion | |  
 
-1. Numbered
-2. List
+### Software Workshop Schedule, Feb 22, 2020
 
-**Bold** and _Italic_ and `Code` text
+Cohen Room 134, Engineering VI Building, UCLA
 
-[Link](url) and ![Image](src)
-```
+**We still have space available in the Saturday Software Workshop.** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LangeSymposium/LangeSymposium2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+| Time | Title | Speaker |  
+|:-----------|:------------|:------------|  
+| 8:30-10:30 | OpenMendel | Ben Chu, Chris German, Sarah Ji, Juhyun Kim, Hua Zhou (UCLA) |  
+| 10:30-11:30 | Convex Biclustering with the cvxbiclustr R package | Eric Chi (NC State) |  
+| 11:30-12:30 | Simple and scalable sparse clustering without shrinkage penalties | Jason Xu (Duke University) |  
+| 12:30-1:30 | Lunch Break | |  
+| 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
+| 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
+| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
+ 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu) and [Eric Sobel](mailto:esobel@ucla.edu).
