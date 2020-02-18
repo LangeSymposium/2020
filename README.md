@@ -77,7 +77,7 @@ Los Angeles, CA. 90024-3013
 Phone: (310)794-0151  
 Email: tivertonhouse@mednet.ucla.edu  
 
-- **W Los Angeles Westwood**
+- **W Los Angeles Westwood**   
 930 Hilgard Ave.  
 Los Angeles, CA 90024  
 Phone: (310)208-8765  
