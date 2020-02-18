@@ -1,6 +1,6 @@
 ## Inaugural Lange Symposium
 
-The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the first Lange Symposium on February 21, 2020 in honor of UCLA Professor Kenneth Lange. This inaugural event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
+The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the first Lange Symposium on February 21, 2020 in honor of UCLA Professor **Kenneth Lange**. This inaugural event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
 
 Professor Lange is an internationally recognized mathematical biologist best known for his seminal contributions to human genetics, but also more generally for his development of computational algorithms applied to many disciplines—ranging from biomedical imaging to neuroscience. Professor Lange has been a devoted advisor to many PhD students in Biomathematics, Biostatistics, and Human Genetics and has taught scores of students aspiring to enter the field of computational biology, including many leaders in the field. To this day, he continues to mentor and inspire students who combine mathematical talent with biological curiosity.
 
@@ -27,7 +27,7 @@ UCLA Luskin Conference Center, Feb 21, 2020.
 | 4:00-4:50 | Interrogating Racial/Ethnic Differences, A Tale of Two Phenotypes: Atopic Dermatitis and Serum Creatinine | Neil Risch (UCSF) |   
 | 4:50-5:00 | Conclusion | |  
 
-### Software Workshop - Feb 22, 2020
+### Workshop - Feb 22, 2020
 
 Cohen Room 134, Engineering VI Building, UCLA
 
@@ -73,7 +73,9 @@ Reservations: (888) 627-7135
 
 ### Kenneth Lange Endowment
 
-To honor Professor Lange’s dedicated service to UCLA and invaluable contributions to the human genetics community and beyond, UCLA seeks to establish the Kenneth Lange Endowment to ensure that the Lange Symposium will be held annually. We are pleased to share that Ken’s first two advisees at UCLA, Neil Risch (1979), Distinguished Professor and Director of the Institute for Human Genetics at UCSF, and Michael Boehnke (1983), Distinguished University Professor of Biostatistics at the University of Michigan, have made generous contributions to initiate this fundraising effort. As Mike notes,  
+To honor Professor Lange’s dedicated service to UCLA and invaluable contributions to the human genetics community and beyond, UCLA seeks to establish the Kenneth Lange Endowment to ensure that the Lange Symposium will be held annually. We are pleased to share that Ken’s first two advisees at UCLA, Neil Risch (1979), Distinguished Professor and Director of the Institute for Human Genetics at UCSF, and Michael Boehnke (1983), Distinguished University Professor of Biostatistics at the University of Michigan, have made generous contributions to initiate this fundraising effort.   
+
+As Mike notes,  
 > Working with Ken was the defining experience of my career. Establishing this symposium is a great way for all of us to thank Ken for all he has done for so many of us.   
 
 And as Neil comments,  
@@ -83,4 +85,4 @@ Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://givi
 
 ### Support or Contact
 
-Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu) and [Eric Sobel](mailto:esobel@ucla.edu).
+Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu). and [Janet Sinsheimer](mailto:jsinshei@ucla.edu).  
