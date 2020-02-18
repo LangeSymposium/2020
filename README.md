@@ -38,7 +38,35 @@ Cohen Room 134, Engineering VI Building, UCLA
 | 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
 | 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
 | 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
- 
+
+### Accomodation
+
+If you are staying overnight and have not yet booked your room, we suggest one of the following local hotels. The Luskin Conference Center is sold out of guest rooms on February 20.
+
+- **Hilgard House Hotel**  
+927 Hilgard Avenue  
+Los Angeles, CA 90024  
+Phone: (310)208-3945  
+Reservations: (800)826-3934  
+Email: Reservations@hilgardhouse.com  
+
+- **Hotel Palomar**  
+10740 Wilshire Boulevard (at Selby Avenue)  
+Los Angeles, CA 90024  
+Phone: 424-901-7235  
+
+- **UCLA Tiverton House**  
+900 Tiverton Ave.  
+Los Angeles, CA. 90024-3013  
+Phone: (310)794-0151  
+Email: tivertonhouse@mednet.ucla.edu  
+
+W Los Angeles Westwood
+930 Hilgard Ave.
+Los Angeles, CA 90024
+Phone: (310)208-8765
+Reservations: (888) 627-7135
+
 ### Support or Contact
 
 Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu) and [Eric Sobel](mailto:esobel@ucla.edu).
