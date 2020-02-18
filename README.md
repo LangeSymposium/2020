@@ -10,6 +10,18 @@ Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/for
 
 The workshop on Feb 22, 2020 is free and does not require attendance at the symposium.
 
+### Endowment
+
+To honor Professor Lange’s dedicated service to UCLA and invaluable contributions to the human genetics community and beyond, UCLA seeks to establish the Kenneth Lange Endowment to ensure that the Lange Symposium will be held annually. We are pleased to share that Ken’s first two advisees at UCLA, Neil Risch (1979), Distinguished Professor and Director of the Institute for Human Genetics at UCSF, and Michael Boehnke (1983), Distinguished University Professor of Biostatistics at the University of Michigan, have made generous contributions to initiate this fundraising effort.   
+
+As Mike notes,  
+> Working with Ken was the defining experience of my career. Establishing this symposium is a great way for all of us to thank Ken for all he has done for so many of us.   
+
+And as Neil comments,  
+> I would never have entered the field of biomathematics and human genetics, nor had the career I have had, if it were not for Ken Lange. I am enormously grateful.  
+
+Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409) to the Kenneth Lange Endowment. Your gift will be pooled with others in support of the Symposium for years to come. Thank you in advance for honoring Ken Lange with your gift or multi-year pledge.
+
 ### Symposium-Feb 21, 2020 
 
 UCLA Luskin Conference Center, Feb 21, 2020.
@@ -71,18 +83,6 @@ Los Angeles, CA 90024
 Phone: (310)208-8765  
 Reservations: (888) 627-7135
 
-### Endowment
-
-To honor Professor Lange’s dedicated service to UCLA and invaluable contributions to the human genetics community and beyond, UCLA seeks to establish the Kenneth Lange Endowment to ensure that the Lange Symposium will be held annually. We are pleased to share that Ken’s first two advisees at UCLA, Neil Risch (1979), Distinguished Professor and Director of the Institute for Human Genetics at UCSF, and Michael Boehnke (1983), Distinguished University Professor of Biostatistics at the University of Michigan, have made generous contributions to initiate this fundraising effort.   
-
-As Mike notes,  
-> Working with Ken was the defining experience of my career. Establishing this symposium is a great way for all of us to thank Ken for all he has done for so many of us.   
-
-And as Neil comments,  
-> I would never have entered the field of biomathematics and human genetics, nor had the career I have had, if it were not for Ken Lange. I am enormously grateful.  
-
-Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409) to the Kenneth Lange Endowment. Your gift will be pooled with others in support of the Symposium for years to come. Thank you in advance for honoring Ken Lange with your gift or multi-year pledge.
-
-### Support or Contact
+### Contact
 
 Having questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu). and [Janet Sinsheimer](mailto:jsinshei@ucla.edu).  
