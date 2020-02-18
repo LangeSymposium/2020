@@ -1,10 +1,14 @@
-## Lange Symposium 2020
+## Inaugural Lange Symposium
 
+The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the first Lange Symposium on February 21, 2020 in honor of UCLA Professor Kenneth Lange. This inaugural event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
 
+Professor Lange is an internationally recognized mathematical biologist best known for his seminal contributions to human genetics, but also more generally for his development of computational algorithms applied to many disciplines—ranging from biomedical imaging to neuroscience. Professor Lange has been a devoted advisor to many PhD students in Biomathematics, Biostatistics, and Human Genetics and has taught scores of students aspiring to enter the field of computational biology, including many leaders in the field. To this day, he continues to mentor and inspire students who combine mathematical talent with biological curiosity.
 
 ### Registration
 
-Register for the symposium at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4)
+Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4). There will be a $20 registration fee. 
+
+The workshop on Feb 22, 2020 is free and does not require attendance at the symposium.
 
 ### Symposium Schedule 
 
@@ -66,6 +70,15 @@ W Los Angeles Westwood
 Los Angeles, CA 90024
 Phone: (310)208-8765
 Reservations: (888) 627-7135
+
+### Kenneth Lange Endowment
+
+To honor Professor Lange’s dedicated service to UCLA and invaluable contributions to the human genetics community and beyond, UCLA seeks to establish the Kenneth Lange Endowment to ensure that the Lange Symposium will be held annually. We are pleased to share that Ken’s first two advisees at UCLA, Neil Risch (1979), Distinguished Professor and Director of the Institute for Human Genetics at UCSF, and Michael Boehnke (1983), Distinguished University Professor of Biostatistics at the University of Michigan, have made generous contributions to initiate this fundraising effort. As Mike notes,  
+> Working with Ken was the defining experience of my career. Establishing this symposium is a great way for all of us to thank Ken for all he has done for so many of us.  
+And as Neil comments, 
+> I would never have entered the field of biomathematics and human genetics, nor had the career I have had, if it were not for Ken Lange. I am enormously grateful.  
+
+Please join Drs. Risch and Boehnke in making a [philanthropic gift](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409) to the Kenneth Lange Endowment. Your gift will be pooled with others in support of the Symposium for years to come. Thank you in advance for honoring Ken Lange with your gift or multi-year pledge.
 
 ### Support or Contact
 
