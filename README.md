@@ -41,18 +41,16 @@ UCLA Luskin Conference Center, Feb 21, 2020.
 
 ### Workshop-Feb 22, 2020
 
-Cohen Room 134, Engineering VI Building, UCLA
-
-**We still have space available in the Saturday Software Workshop.** 
+Cohen Room 134, Engineering VI Building, UCLA  
 
 | Time | Title | Speaker |  
 |:-----------|:------------|:------------|  
-| 8:30-10:30 | OpenMendel | Ben Chu, Chris German, Sarah Ji, Juhyun Kim, Hua Zhou (UCLA) |  
-| 10:30-11:30 | Convex Biclustering with the cvxbiclustr R package | Eric Chi (NC State) |  
+| 8:30-10:30 | OpenMendel ([tutorials](https://github.com/OpenMendel/LangeSymposium-ProgrammingWorkshop-20202022)) | Ben Chu, Chris German, Sarah Ji, Juhyun Kim, Hua Zhou (UCLA) |  
+| 10:30-11:30 | Convex Biclustering with the cvxbiclustr R package ([software](https://cran.r-project.org/web/packages/cvxbiclustr/index.html), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12540)) | Eric Chi (NC State) |  
 | 11:30-12:30 | Simple and scalable sparse clustering without shrinkage penalties | Jason Xu (Duke University) |  
 | 12:30-1:30 | Lunch Break | |  
-| 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
-| 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
+| 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia ([tutorials](https://github.com/alanderos91/LangeSymposium-BioSimulator), [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260718301822)) | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
+| 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [JupyterHub](https://apeach.snu.ac.kr:8788/)) | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
 | 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
 
 ### Accomodation
