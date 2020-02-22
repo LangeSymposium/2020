@@ -53,7 +53,7 @@ Cohen Room 134, Engineering VI Building, UCLA
 | 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [JupyterHub](https://apeach.snu.ac.kr:8788/)) | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
 | 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
 
-### Accomodation
+### Accommodation
 
 If you are staying overnight and have not yet booked your room, we suggest one of the following local hotels. The Luskin Conference Center is sold out of guest rooms on February 20.
 
