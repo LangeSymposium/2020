@@ -51,7 +51,7 @@ Cohen Room 134, Engineering VI Building, UCLA
 | 12:30-1:30 | Lunch Break | |  
 | 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia ([tutorials](https://github.com/alanderos91/LangeSymposium-BioSimulator), [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260718301822)) | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
 | 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [JupyterHub](https://apeach.snu.ac.kr:8788/)) | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
-| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
+| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li (UCLA), Wei Vivian Li (Rutgers University) |  
 
 ### Accommodation
 
