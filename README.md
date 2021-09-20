@@ -47,13 +47,13 @@ Cohen Room 134, Engineering VI Building, UCLA
 |:-----------|:------------|:------------|  
 | 8:30-10:30 | OpenMendel ([tutorials](https://github.com/OpenMendel/LangeSymposium-ProgrammingWorkshop-20202022)) | Ben Chu, Chris German, Sarah Ji, Juhyun Kim, Hua Zhou (UCLA) |  
 | 10:30-11:30 | Convex Biclustering with the cvxbiclustr R package ([software](https://cran.r-project.org/web/packages/cvxbiclustr/index.html), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12540)) | Eric Chi (NC State) |  
-| 11:30-12:30 | Simple and scalable sparse clustering without shrinkage penalties | Jason Xu (Duke University) |  
+| 11:30-12:30 | Simple and scalable sparse clustering without shrinkage penalties ([software](https://github.com/ZhiyueZ/SKFR), [paper](https://arxiv.org/abs/2002.08541)) | Jason Xu (Duke University) |  
 | 12:30-1:30 | Lunch Break | |  
 | 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia ([tutorials](https://github.com/alanderos91/LangeSymposium-BioSimulator), [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260718301822)) | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
-| 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [JupyterHub](https://apeach.snu.ac.kr:8788/)) | Joong-Hon Won, Seyoon Ko (Seoul National University) |  
-| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li, Wei Vivian Li (UCLA) |  
+| 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [paper](https://arxiv.org/abs/2001.01916)) | Joong-Ho (Johann) Won, Seyoon Ko (Seoul National University) |  
+| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li (UCLA), Wei Vivian Li (Rutgers University) |  
 
-### Accomodation
+### Accommodation
 
 If you are staying overnight and have not yet booked your room, we suggest one of the following local hotels. The Luskin Conference Center is sold out of guest rooms on February 20.
 
