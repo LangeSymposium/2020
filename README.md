@@ -83,4 +83,4 @@ Reservations: (888) 627-7135
 
 ### Contact
 
-Questions? Contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), [Janet Sinsheimer](mailto:jsinshei@ucla.edu), and [Hua Zhou](mailto:huazhou@ucla.edu).  
+For questions contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), [Janet Sinsheimer](mailto:jsinshei@ucla.edu), and [Hua Zhou](mailto:huazhou@ucla.edu).  
