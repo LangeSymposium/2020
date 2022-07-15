@@ -1,4 +1,4 @@
-## Inaugural Lange Symposium
+## Inaugural Lange Symposium, 2020
 
 For information about the upcoming Lange Symposium October 24 2022, [click here](https://langesymposium.github.io/2022-October-Symposium/)
 
