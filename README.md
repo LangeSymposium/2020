@@ -1,5 +1,7 @@
 ## Inaugural Lange Symposium
 
+For information about the upcoming Lange Symposium October 24 2022, [click here](https://langesymposium.github.io/2022-October-Symposium/)
+
 The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the first Lange Symposium on February 21, 2020 in honor of UCLA Professor **Kenneth Lange**. This inaugural event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
 
 Professor Lange is an internationally recognized mathematical biologist best known for his seminal contributions to human genetics, but also more generally for his development of computational algorithms applied to many disciplines—ranging from biomedical imaging to neuroscience. Professor Lange has been a devoted advisor to many PhD students in Biomathematics, Biostatistics, and Human Genetics and has taught scores of students aspiring to enter the field of computational biology, including many leaders in the field. To this day, he continues to mentor and inspire students who combine mathematical talent with biological curiosity.
