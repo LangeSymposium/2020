@@ -1,6 +1,6 @@
 ## Inaugural Lange Symposium, 2020
 
-For information about the upcoming Lange Symposium October 24 2022, [click here](https://langesymposium.github.io/2022-October-Symposium/)
+For information on upcoming Lange Symposia, [click here](https://langesymposium.github.io/Lange-Symposium/)
 
 The David Geffen School of Medicine and the Department of Computational Medicine at UCLA are pleased to announce the first Lange Symposium on February 21, 2020 in honor of UCLA Professor **Kenneth Lange**. This inaugural event will celebrate the impact of Dr. Lange’s research, mentorship, and teaching over the course of an illustrious career spanning more than four decades, and will feature scientific talks by some of Dr. Lange’s esteemed colleagues and former students. We hope you will join us for a day of stimulating science and time to catch up with friends and colleagues, and that you will also be interested in contributing to the plans to make this an annual event.
 
