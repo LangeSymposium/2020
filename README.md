@@ -8,7 +8,7 @@ Professor Lange is an internationally recognized mathematical biologist best kno
 
 ### Registration
 
-Register for the symposium on Feb 21, 2020 at [link](https://docs.google.com/forms/d/17DzSTQWib9Z1vsYPsweHzaS6CX39G_0Lsmc6NpNa8ZQ/edit?ts=5dc053e4). There will be a $20 registration fee. 
+There will be a $20 registration fee to register for the symposium on Feb 21, 2020
 
 The workshop on Feb 22, 2020 is free and does not require attendance at the symposium.
 
