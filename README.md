@@ -53,35 +53,7 @@ Cohen Room 134, Engineering VI Building, UCLA
 | 12:30-1:30 | Lunch Break | |  
 | 1:30-3:30 | BioSimulator.jl: Fast simulation of stochastic processes in Julia ([tutorials](https://github.com/alanderos91/LangeSymposium-BioSimulator), [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260718301822)) | Mary Sehl, Alfonso Landeros, Tim Stutz (UCLA) |  
 | 3:30-4:30 | A Distributed Matrix Data Structure and Its Statistical Applications on PyTorch ([tutorials](https://github.com/kose-y/dist_stat), [paper](https://arxiv.org/abs/2001.01916)) | Joong-Ho (Johann) Won, Seyoon Ko (Seoul National University) |  
-| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li (UCLA), Wei Vivian Li (Rutgers University) |  
-
-### Accommodation
-
-If you are staying overnight and have not yet booked your room, we suggest one of the following local hotels. The Luskin Conference Center is sold out of guest rooms on February 20.
-
-- **Hilgard House Hotel**  
-927 Hilgard Avenue  
-Los Angeles, CA 90024  
-Phone: (310)208-3945  
-Reservations: (800)826-3934  
-Email: Reservations@hilgardhouse.com  
-
-- **Hotel Palomar**  
-10740 Wilshire Boulevard (at Selby Avenue)  
-Los Angeles, CA 90024  
-Phone: 424-901-7235  
-
-- **UCLA Tiverton House**  
-900 Tiverton Ave.  
-Los Angeles, CA. 90024-3013  
-Phone: (310)794-0151  
-Email: tivertonhouse@mednet.ucla.edu  
-
-- **W Los Angeles Westwood**   
-930 Hilgard Ave.  
-Los Angeles, CA 90024  
-Phone: (310)208-8765  
-Reservations: (888) 627-7135
+| 4:30-5:30 | Software packages for analysis of single-cell RNA-seq, epigenomes, and transcriptomes | Jessica Li (UCLA), Wei Vivian Li (Rutgers University) |
 
 ### Contact
 
