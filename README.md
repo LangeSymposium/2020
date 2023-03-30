@@ -57,4 +57,4 @@ Cohen Room 134, Engineering VI Building, UCLA
 
 ### Contact
 
-For questions contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), [Janet Sinsheimer](mailto:jsinshei@ucla.edu), and [Hua Zhou](mailto:huazhou@ucla.edu).  
+For questions contact Professors [Jeanette Papp](mailto:jcpapp@ucla.edu), [Eric Sobel](mailto:esobel@ucla.edu), and [Hua Zhou](mailto:huazhou@ucla.edu).  
